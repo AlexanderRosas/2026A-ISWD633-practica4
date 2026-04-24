@@ -1,6 +1,4 @@
 # COMPLETAR  
-Reflexión Profesional:
-
 Antes de esta práctica, veía a los contenedores como cajas que simplemente "corrían" software. No era consciente de que, en un entorno real de producción, un contenedor mal configurado puede consumir toda la RAM del servidor y tumbar otros servicios.
 
 Principales aprendizajes:
